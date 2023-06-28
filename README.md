@@ -21,6 +21,6 @@ in this case, since server code is very basic, I decided on a separate file with
 My point of departure is that the conference details are saved in the DB,
 and also, when a participant joins the conference, it is immediately saved to the DB (as active), associated to the conference.
 
-Also, please notice all the comments & ToDo's - כווני חשיבה
+Also, please notice all the comments & ToDo's - כיווני חשיבה
 
 Good Luck :)
