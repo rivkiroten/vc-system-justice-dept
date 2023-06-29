@@ -51,7 +51,7 @@ export default function App() {
   and if so, this function can be used for that element */
   const handleMuteAll = ({ participants }) => {
     /* set all participant.microphoneStatus to false, except for where participant.role === "שופט" */
-    setParticipants(updatedParticipants);
+    setParticipants(participants);
   };
 
   return (
