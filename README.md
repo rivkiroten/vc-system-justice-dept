@@ -16,7 +16,7 @@ and also server will be built with an appropriate structure
             |- db.js )
 
 in this case, since server code is very basic, I decided on a separate file with an appropriate name (server.js)
-(applying the server functions whould be in the controller folder (getParticipants, getConferenceDetails etc.))
+(applying the server functions (getParticipants, getConferenceDetails etc.) whould be in the controller folder)
 
 My point of departure is that the conference details are saved in the DB,
 and also, when a participant joins the conference, it is immediately saved to the DB (as active), associated to the conference.
